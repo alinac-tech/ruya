@@ -1,0 +1,6 @@
+.fastembed_cache/
+.last-ruya
+.ruya-config
+__pycache__/
+*.pyc
+.DS_Store
